@@ -1,0 +1,18 @@
+<.html>
+  <cabeza>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script >
+    <Guión>
+      $(documento). Ready(función(){
+      $("p"). click(función(){
+      $(esto). esconder();
+      });
+      });
+    </Guión>
+  </cabeza>
+<cuerpo>
+
+  <p>Si me tocas, Desaparesco</p>
+  <p>Yo tambien? </p>
+  <p>Yo tal vez</p>
+</cuerpo>
+</.html>
